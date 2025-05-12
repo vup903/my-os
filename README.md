@@ -7,7 +7,7 @@ Inspired by [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial).
 
 ---
 
-## 🧠 Features
+##  Features
 
 - Custom bootloader (16-bit real mode)
 - Switch to 32-bit protected mode
@@ -16,7 +16,7 @@ Inspired by [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial).
 
 ---
 
-## 🛠 How to Build and Run
+##  How to Build and Run
 
 ### 1. Install QEMU (x86 emulator)
 
@@ -53,7 +53,7 @@ make run
 
 ---
 
-## 📂 Folder Structure
+##  Folder Structure
 
 ```
 boot/      → Bootloader in assembly  
@@ -63,10 +63,3 @@ Makefile   → Build instructions
 README.md  → This file
 ```
 
----
-
-## 👩‍💻 Author
-
-- **Your Name**  
-- Department / Class  
-- Instructor: Prof. XXX  
